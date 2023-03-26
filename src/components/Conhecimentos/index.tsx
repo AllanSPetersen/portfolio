@@ -1,6 +1,6 @@
-import { FaReact } from 'react-icons/Fa';
-import { IoLogoJavascript,IoLogoNodejs } from 'react-icons/Io';
-import { SiTypescript } from 'react-icons/Si';
+import { FaReact } from 'react-icons/fa';
+import { IoLogoJavascript,IoLogoNodejs } from 'react-icons/io';
+import { SiTypescript } from 'react-icons/si';
 import SectionTitle from "../SectionTitle";
 import ConhecimentoItem from "./ConhecimentoItem";
 import { Container } from "./styles";
