@@ -1,12 +1,10 @@
-/* eslint-disable react/jsx-no-comment-textnodes */
 import { Container, TextContainer, InfosContainer, CodeItem  } from './styles';
-import picture from '../../assets/pessoa.webp';
 
 
 export function HomeHero() {
   return (
     
-    <Container> 
+    <Container data-aos="fadeup"> 
         <img src="https://i.ibb.co/gFG0RW7/vectorpouch180500027-removebg-preview.png"/>
         <div>
           <TextContainer>

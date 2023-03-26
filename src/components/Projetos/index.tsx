@@ -9,8 +9,7 @@ export function Projetos() {
   return (
     <Container>
       <SectionTitle title="Ultimos Projetos"/>
-
-      <section>
+      <section data-aos="fadeup">
         <ProjetoItem 
           img="https://punkt.de/_Resources/Persistent/c/1/d/9/c1d9a298cf4a8e2864a72826509de6e3e8724144/React_Native_Logo-1140x599.png"
           title="Projeto 01"

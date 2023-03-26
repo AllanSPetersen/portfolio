@@ -5,9 +5,11 @@ import SectionTitle from "../SectionTitle";
 import ConhecimentoItem from "./ConhecimentoItem";
 import { Container } from "./styles";
 
+
 function Conhecimentos () {
     return (
-        <Container>
+        <Container data-aos="fadeup">
+  
           <SectionTitle title="Conhecimentos" />
           <section>
             <ConhecimentoItem linguagen="JavaScript" icon={<IoLogoJavascript />} />

@@ -9,7 +9,7 @@ interface ConhecimentoProps {
 export default function ConhecimentoItem({linguagen, icon}: ConhecimentoProps) {
     return (
         <ConhecimentoContainer>
-            <p>{linguagen}</p>^
+            <p>{linguagen}</p>
             {icon}
         </ConhecimentoContainer>
     )
